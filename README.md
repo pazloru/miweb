@@ -19,26 +19,37 @@ Niños elegidos por orden de entrada a NERV
 1. Ayanami Rei
 2. Asuka Langley
 3. Ikari Shinji
-4. El colega
-5. El ángel
+4. Depende de la saga:
+   - Suzuhara Toji (Serie original)
+   - Mari Makinami (Saga Rebuild)
+6. Nagisa Kaworu
 
 ***
 Robots que se pilotan en la serie
-- EVA 00
-- EVA 01
-- EVA 02
-- MARK 04
+- EVA unidad 00
+- EVA unidad 01
+- EVA unidad 02
+- EVA unidad 04
+- Cuerpos de simulación
+- Evangelion de producción en masa
 
 ---
 
-Tabla de ángeles por orden de aparición en la serie: 
+## Tabla de ángeles
+
+Cualquiera diría que son entidades religiosas, pero __Hideaki Anno__ simplemente pensaba que la iconografía cristiana estaba guapa. Es como aquí ver a un _friki_ con una katana, es una cosa exótica y llamativa. Estos alienígenas tienen poco que ver con la religión católica, pero molan bastante. 
 
 Dejamos aquí la relación de ángeles con su aparición en la serie:
-|Nombre del ángel       |Capítulo de aparición      |Contra quién se enfrenta
-|-                      |:-:                        |:-:
-|Rammiel                |Capítulo 23                |Contra Eva01
-|Zeruel                 |Capítulos 2 y 2            |Contra EVA 01 y 02
-|Bardiel                |Capítulo 13                |Contra EVA 00
+|Nombre del ángel       |Significado del nombre        |Capítulo de aparición      |Quién lo derrotó
+|:-:                    |-                             |:-:                        |-
+|Rammiel                |Trueno de Dios                |Capítulo 05                |EVA 00 Y 01
+|Zeruel                 |Brazo de Dios                 |Capítulo 19                |EVA 01
+|Bardiel                |Hijo humillado de Dios        |Capítulo 18                |EVA 01 (dummy plug)
+|Tabris                 |Desconocido                   |Capítulo 24                |EVA 01
+|Sachiel                |El precio de Dios             |Capítulo 01                |EVA 01
+|Israfel                |El que ejecuta sin saber      |Capítulo 09                |EVA 01 y 02
+|Lilith                 |Semilla de Conocimiento       |Capítulo 15                |Retenido por NERV
+|Adán                   |Semilla de Vida               |Capítulo 08                |Recuperado por NERV
 
 ![Imagen de los ángeles](https://external-preview.redd.it/PMOOKYzF0Uk-p21HKBFM1v0UQs_Q2Qr_6-0RY-O9IYI.jpg?auto=webp&s=c7b22e1673235d2d3a958212953c2b3f025422c0)
 
@@ -46,11 +57,12 @@ Dejamos aquí la relación de ángeles con su aparición en la serie:
 
 La serie fue tan popular y el final tan controvertido que el estudio de animación se decidió a hacer una película con un final alternativo (no mucho más satisfactorio) y otra película a modo de resumen de la serie. También aparecieron sagas de películas asociadas y series de manga relacionadas con el tema.
 
-Ésta es una [lista][lista] de aquellos contenidos relacionados con Evangelion que he consumido hasta el momento:
+Ésta es una [lista][lista] en la que marcoé contenidos de Evangelion he visto hasta la fecha:
 - [X] Neon Genesis Evangelion
 - [ ] Neon Genesis Evangelion: Death (True)
 - [X] Neon Genesis Evangelion: The end of Evangelion
-- [ ] Manga Neon Genesis Evangelion
+- [X] Neon Genesis Evangelion (Manga)
+- [ ] Neon Genesis Evangelion: Gakuen Datenroku (Manga)
 - [X] Evangelion 1.0: You are [not] alone
 - [X] Evangelion 2.0: You can [not] advance
 - [X] Evangelion 3.0: You can [not] redo
@@ -65,12 +77,24 @@ public static void main (String[]args){
     System.out.println("¡Hola mundo!");
 }
 ```
-Para cuando pueda programar un monigote chulo no creo que me acuerde de hacer un codiguito majos para este ejercicio.
+Para cuando pueda programar un monigote chulo no creo que me acuerde de hacer un codiguito majo para este ejercicio.
+
+Bueno, como diría Gendo Ikari,
+>"Pilota el EVA, Shinji, o tendrá que hacerlo Rei"
+>
+>_Ikari Gendo_
+___
+# ¡Felicidades por llegar hasta el final! 
+![Omedeto](https://tse4.mm.bing.net/th/id/OIP.QKV3He3uR5kPrN3H0RHbHwHaE_?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
+
 ___
 # ¡Felicidades por llegar hasta el final! 
 ![Omedeto](https://tse4.mm.bing.net/th/id/OIP.QKV3He3uR5kPrN3H0RHbHwHaE_?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 
 [Wikipedia]: https://es.wikipedia.org/wiki/Neon_Genesis_Evangelion "Enlace a wikipedia sobre la serie"
+[Foros]: https://evangelion.fandom.com/es/wiki/Foro:Index "Ejemplo de foro de frikis"
+[lista]: https://guides.justwatch.com/es/todas-series-peliculas-neon-genesis-evangelion-orden "Recopilación de series relacionadas"
+
 [Foros]: https://evangelion.fandom.com/es/wiki/Foro:Index "Ejemplo de foro de frikis"
 [lista]: https://guides.justwatch.com/es/todas-series-peliculas-neon-genesis-evangelion-orden "Recopilación de series relacionadas"
