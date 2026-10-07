@@ -87,14 +87,7 @@ ___
 # ¡Felicidades por llegar hasta el final! 
 ![Omedeto](https://tse4.mm.bing.net/th/id/OIP.QKV3He3uR5kPrN3H0RHbHwHaE_?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
-___
-# ¡Felicidades por llegar hasta el final! 
-![Omedeto](https://tse4.mm.bing.net/th/id/OIP.QKV3He3uR5kPrN3H0RHbHwHaE_?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
-
 
 [Wikipedia]: https://es.wikipedia.org/wiki/Neon_Genesis_Evangelion "Enlace a wikipedia sobre la serie"
-[Foros]: https://evangelion.fandom.com/es/wiki/Foro:Index "Ejemplo de foro de frikis"
-[lista]: https://guides.justwatch.com/es/todas-series-peliculas-neon-genesis-evangelion-orden "Recopilación de series relacionadas"
-
 [Foros]: https://evangelion.fandom.com/es/wiki/Foro:Index "Ejemplo de foro de frikis"
 [lista]: https://guides.justwatch.com/es/todas-series-peliculas-neon-genesis-evangelion-orden "Recopilación de series relacionadas"
